@@ -11,3 +11,8 @@ CodeChest: Unlock the secrets of code! Dive into a treasure trove of meticulousl
 - [PythonProgrammingBible.pdf](https://github.com/r-a-j-a-n/CodeChest/blob/main/Python/PythonProgrammingBible.pdf)
 - [PythonTheCompleteManual.pdf](https://github.com/r-a-j-a-n/CodeChest/blob/main/Python/PythonTheCompleteManual.pdf)
 - [ThePythonExperience.pdf](https://github.com/r-a-j-a-n/CodeChest/blob/main/Python/ThePythonExperience.pdf)
+## SQL
+- [SQL.pdf](https://github.com/r-a-j-a-n/CodeChest/blob/main/SQL/SQL.pdf)
+- [SQLHandwrittenNotes.pdf](https://github.com/r-a-j-a-n/CodeChest/blob/main/SQL/SQLHandwrittenNotes.pdf)
+- [SQLTutorial.pdf](https://github.com/r-a-j-a-n/CodeChest/blob/main/SQL/SQLTutorial.pdf)
+- [Top50SQLInterviewQuestion.pdf](https://github.com/r-a-j-a-n/CodeChest/blob/main/SQL/Top50SQLInterviewQuestion.pdf)
